@@ -4,7 +4,7 @@
      HERO BANNER
 ════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e3a5f,100:0d1117&height=200&section=header&text=Prashanth%20Dudala&fontSize=48&fontColor=e2e8f0&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Engineer%20%7C%20DevOps%20Architect&descAlignY=58&descSize=18&descColor=3b82f6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e3a5f,100:0d1117&height=200&section=header&text=Prashanth%20Dudala&fontSize=48&fontColor=e2e8f0&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Engineer%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=18&descColor=3b82f6" width="100%"/>
 
 <br/>
 
