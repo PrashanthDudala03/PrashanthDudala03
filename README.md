@@ -4,11 +4,11 @@
      HERO BANNER
 ════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e3a5f,100:0d1117&height=200&section=header&text=Prashanth%20Dudala&fontSize=48&fontColor=e2e8f0&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Engineer%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=18&descColor=3b82f6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e3a5f,100:0d1117&height=200&section=header&text=Prashanth%20Dudala&fontSize=48&fontColor=e2e8f0&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Engineer&descAlignY=58&descSize=18&descColor=3b82f6" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=720&lines=React+%C2%B7+Django+%C2%B7+Docker+%C2%B7+Kubernetes+%C2%B7+Python;Building+production-grade+systems+from+Hyderabad;DevOps+%7C+Microservices+%7C+Cloud-Native+Architecture;Open+to+opportunities+%E2%86%92+Let%27s+connect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=720&lines=React+%C2%B7+Django+%C2%B7+PostgreSQL+%C2%B7+Python;Building+scalable+web+applications+from+end+to+end;Full+Stack+Development+%7C+Open+Source+%7C+Problem+Solver;Open+to+opportunities+%E2%86%92+Let%27s+connect)](https://git.io/typing-svg)
 
 <br/>
 
@@ -30,13 +30,13 @@
 ```python
 class PrashanthDudala:
     name       = "Prashanth Dudala"
-    role       = ["Full-Stack Engineer", "DevOps Architect"]
+    role       = ["Full-Stack Engineer"]
     location   = "Hyderabad, Telangana, India"
     stack      = {
         "frontend"  : ["React", "TypeScript", "JavaScript", "HTML5", "CSS3"],
         "backend"   : ["Python", "Django", "C#", "REST API", "Microservices"],
         "database"  : ["PostgreSQL", "Docker"],
-        "devops"    : ["Kubernetes", "Nginx", "Linux", "Shell", "Git", "Postman"],
+        "devops"    : ["Linux", "Nginx", "Shell", "Git", "Postman"],
     }
     building   = "Scalable, containerised, production-ready systems"
     available  = True   # → open to full-time & freelance
@@ -59,6 +59,7 @@ class PrashanthDudala:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### `[ BACKEND ]`
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -70,8 +71,6 @@ class PrashanthDudala:
 ### `[ DATABASE & INFRASTRUCTURE ]`
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Shell](https://img.shields.io/badge/Shell_Script-89E051?style=for-the-badge&logo=gnubash&logoColor=black)
 
@@ -94,7 +93,6 @@ class PrashanthDudala:
 ```
   Frontend     ████████████████████░░   92%   React · TypeScript · CSS Architecture
   Backend      ███████████████████░░░   88%   Django · Python · REST Design
-  DevOps       █████████████████░░░░░   82%   Docker · K8s · CI/CD · Nginx
   Database     ████████████████░░░░░░   78%   PostgreSQL · Query Optimisation
   Systems      ███████████████░░░░░░░   74%   Linux · Shell · Networking
   C# / .NET    ████████████░░░░░░░░░░   62%   OOP · Enterprise Patterns
@@ -114,8 +112,8 @@ class PrashanthDudala:
 |---|---------|-------------|-------|
 | 🗺️ | [**trip-planner**](https://github.com/PrashanthDudala03/trip-planner) | Full-stack trip planning with routing & containerised deployment | `React` `Django` `Docker` `Nginx` |
 | 💰 | [**chit-auction-platform**](https://github.com/PrashanthDudala03/chit-auction-platform) | Enterprise chit fund management & real-time auction engine | `React` `Django` `PostgreSQL` |
-| 🏏 | [**cricket-hub-enterprise**](https://github.com/PrashanthDudala03/cricket-hub-enterprise) | Real-time scoring platform built with microservices | `Microservices` `Docker` `K8s` |
-| 🐳 | [**devops-learning**](https://github.com/PrashanthDudala03/devops-learning) | Hands-on DevOps — shell scripting, containerisation & automation | `Shell` `Docker` `Linux` |
+| 🏏 | [**cricket-hub-enterprise**](https://github.com/PrashanthDudala03/cricket-hub-enterprise) | Real-time scoring platform built with microservices | `Microservices` `Docker` |
+| 🐳 | [**devops-learning**](https://github.com/PrashanthDudala03/devops-learning) | Hands-on scripting, containerisation & deployment basics | `Shell` `Docker` `Linux` |
 | 🎮 | [**truth-or-dare**](https://github.com/PrashanthDudala03/truth-or-dare) | Browser-based party game with dynamic challenge engine | `JavaScript` |
 
 </div>
@@ -176,12 +174,12 @@ class PrashanthDudala:
 ## 🔭 Trajectory
 
 ```
-  2025 ▸  Deepening cloud-native patterns · Kubernetes at scale
-  2027 ▸  Distributed systems architect · Event-driven microservices
-  2030 ▸  Principal Engineer · Platform team leadership
-  2034 ▸  Open-source infrastructure tooling used globally
-  2040 ▸  Building developer platforms at 1M+ scale
-  2055 ▸  Autonomous, self-healing infrastructure systems
+  2025 ▸  Deepening full stack architecture & system design
+  2027 ▸  Building scalable applications & leading feature delivery
+  2030 ▸  Senior Full Stack Engineer & technical mentoring
+  2034 ▸  Architecting platforms that empower developers
+  2040 ▸  Building products at 1M+ scale
+  2055 ▸  Autonomous, self-healing systems for the future
 ```
 
 ---
