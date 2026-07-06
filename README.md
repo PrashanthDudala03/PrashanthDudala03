@@ -101,26 +101,6 @@ class PrashanthDudala:
 ---
 
 <!-- ════════════════════════════════════════════════════════════
-     FEATURED PROJECTS
-════════════════════════════════════════════════════════════ -->
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| # | Project | Description | Stack |
-|---|---------|-------------|-------|
-| 🗺️ | [**trip-planner**](https://github.com/PrashanthDudala03/trip-planner) | Full-stack trip planning with routing & containerised deployment | `React` `Django` `Docker` `Nginx` |
-| 💰 | [**chit-auction-platform**](https://github.com/PrashanthDudala03/chit-auction-platform) | Enterprise chit fund management & real-time auction engine | `React` `Django` `PostgreSQL` |
-| 🏏 | [**cricket-hub-enterprise**](https://github.com/PrashanthDudala03/cricket-hub-enterprise) | Real-time scoring platform built with microservices | `Microservices` `Docker` |
-| 🐳 | [**devops-learning**](https://github.com/PrashanthDudala03/devops-learning) | Hands-on scripting, containerisation & deployment basics | `Shell` `Docker` `Linux` |
-| 🎮 | [**truth-or-dare**](https://github.com/PrashanthDudala03/truth-or-dare) | Browser-based party game with dynamic challenge engine | `JavaScript` |
-
-</div>
-
----
-
-<!-- ════════════════════════════════════════════════════════════
      GITHUB STATS
 ════════════════════════════════════════════════════════════ -->
 
